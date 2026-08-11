@@ -114,7 +114,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenPolicyModal, setActiveNav 
               <li>
                 <button onClick={() => onOpenPolicyModal('contact')} className="flex items-center gap-1.5 hover:text-white cursor-pointer">
                   <Mail className="h-3.5 w-3.5" />
-                  1:1 문의 및 제휴 (Contact)
+                  1:1 문의
                 </button>
               </li>
             </ul>
