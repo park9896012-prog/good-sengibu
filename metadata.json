@@ -1,0 +1,6 @@
+{
+  "name": "생기부 365",
+  "description": "고등학생 1~3학년 맞춤형 생활기록부 관리, 세특 템플릿, 탐구주제 추천 및 입시 가이드 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+# robots.txt for 생기부 365 (https://sangibu365.com)
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://sangibu365.com/sitemap.xml
