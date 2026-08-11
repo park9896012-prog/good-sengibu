@@ -53,7 +53,7 @@ export const Header: React.FC<HeaderProps> = ({
       <div className="bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 px-4 py-1.5 text-center text-xs font-medium text-white flex items-center justify-between">
         <div className="mx-auto flex items-center gap-2">
           <span className="inline-flex items-center rounded-full bg-white/20 px-2 py-0.5 text-[11px] font-bold text-amber-200">
-            2025/2026 대입 완벽대비
+            1, 2, 3학년의 대입 완벽대비
           </span>
           <span className="hidden sm:inline">고교학점제 & 학생부종합전형 365일 학년별 맞춤 전략가이드</span>
           <span className="sm:hidden">고등학생 학년별 생기부 솔루션</span>
