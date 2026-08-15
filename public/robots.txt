@@ -1,6 +1,6 @@
-# robots.txt for 생기부 365 (https://sangibu365.com)
+# robots.txt for 생기부 365 (https://good-sengibu.pages.dev)
 User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://sangibu365.com/sitemap.xml
+Sitemap: https://good-sengibu.pages.dev/sitemap.xml
